@@ -12,9 +12,5 @@
 ##### 数据来源
 美国疾病预防控制中心
 
-##### flask页面
-* [美国五个主要原因潜在死亡人数情况](http://hhh555.pythonanywhere.com/IV_final)
-* [美国五个主要原因潜在死亡人数区域情况](http://hhh555.pythonanywhere.com/IV_final2)
-* [美国五个主要原因潜在死亡人数占比趋势](http://hhh555.pythonanywhere.com/IV_final3)
 
 
